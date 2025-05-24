@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dondikmitimxu"
+path="res://.godot/imported/The Thing - Main Theme.mp3-25001cbb8cd1e3ee91a2b99beb9721a8.mp3str"
+
+[deps]
+
+source_file="res://Audio/The Thing - Main Theme.mp3"
+dest_files=["res://.godot/imported/The Thing - Main Theme.mp3-25001cbb8cd1e3ee91a2b99beb9721a8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
